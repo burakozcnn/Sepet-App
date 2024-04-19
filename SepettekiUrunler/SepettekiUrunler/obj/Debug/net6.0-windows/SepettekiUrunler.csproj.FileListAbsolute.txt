@@ -1,0 +1,35 @@
+C:\Users\Administrator\Desktop\FormProjeler\SepettekiUrunler\SepettekiUrunler\bin\Debug\net6.0-windows\SepettekiUrunler.exe
+C:\Users\Administrator\Desktop\FormProjeler\SepettekiUrunler\SepettekiUrunler\bin\Debug\net6.0-windows\SepettekiUrunler.deps.json
+C:\Users\Administrator\Desktop\FormProjeler\SepettekiUrunler\SepettekiUrunler\bin\Debug\net6.0-windows\SepettekiUrunler.runtimeconfig.json
+C:\Users\Administrator\Desktop\FormProjeler\SepettekiUrunler\SepettekiUrunler\bin\Debug\net6.0-windows\SepettekiUrunler.dll
+C:\Users\Administrator\Desktop\FormProjeler\SepettekiUrunler\SepettekiUrunler\bin\Debug\net6.0-windows\SepettekiUrunler.pdb
+C:\Users\Administrator\Desktop\FormProjeler\SepettekiUrunler\SepettekiUrunler\obj\Debug\net6.0-windows\SepettekiUrunler.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\FormProjeler\SepettekiUrunler\SepettekiUrunler\obj\Debug\net6.0-windows\SepettekiUrunler.Form1.resources
+C:\Users\Administrator\Desktop\FormProjeler\SepettekiUrunler\SepettekiUrunler\obj\Debug\net6.0-windows\SepettekiUrunler.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\FormProjeler\SepettekiUrunler\SepettekiUrunler\obj\Debug\net6.0-windows\SepettekiUrunler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\FormProjeler\SepettekiUrunler\SepettekiUrunler\obj\Debug\net6.0-windows\SepettekiUrunler.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\FormProjeler\SepettekiUrunler\SepettekiUrunler\obj\Debug\net6.0-windows\SepettekiUrunler.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\FormProjeler\SepettekiUrunler\SepettekiUrunler\obj\Debug\net6.0-windows\SepettekiUrunler.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\FormProjeler\SepettekiUrunler\SepettekiUrunler\obj\Debug\net6.0-windows\SepettekiUrunler.dll
+C:\Users\Administrator\Desktop\FormProjeler\SepettekiUrunler\SepettekiUrunler\obj\Debug\net6.0-windows\refint\SepettekiUrunler.dll
+C:\Users\Administrator\Desktop\FormProjeler\SepettekiUrunler\SepettekiUrunler\obj\Debug\net6.0-windows\SepettekiUrunler.pdb
+C:\Users\Administrator\Desktop\FormProjeler\SepettekiUrunler\SepettekiUrunler\obj\Debug\net6.0-windows\SepettekiUrunler.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\FormProjeler\SepettekiUrunler\SepettekiUrunler\obj\Debug\net6.0-windows\ref\SepettekiUrunler.dll
+C:\Users\Administrator\Desktop\FormProjeler\SepettekiUrunler\SepettekiUrunler\obj\Debug\net6.0-windows\SepettekiUrunler.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Form Projesi İçin Gerekli\FormProjeler - Kopya\SepettekiUrunler\SepettekiUrunler\bin\Debug\net6.0-windows\SepettekiUrunler.exe
+C:\Users\Administrator\Desktop\Form Projesi İçin Gerekli\FormProjeler - Kopya\SepettekiUrunler\SepettekiUrunler\bin\Debug\net6.0-windows\SepettekiUrunler.deps.json
+C:\Users\Administrator\Desktop\Form Projesi İçin Gerekli\FormProjeler - Kopya\SepettekiUrunler\SepettekiUrunler\bin\Debug\net6.0-windows\SepettekiUrunler.runtimeconfig.json
+C:\Users\Administrator\Desktop\Form Projesi İçin Gerekli\FormProjeler - Kopya\SepettekiUrunler\SepettekiUrunler\bin\Debug\net6.0-windows\SepettekiUrunler.dll
+C:\Users\Administrator\Desktop\Form Projesi İçin Gerekli\FormProjeler - Kopya\SepettekiUrunler\SepettekiUrunler\bin\Debug\net6.0-windows\SepettekiUrunler.pdb
+C:\Users\Administrator\Desktop\Form Projesi İçin Gerekli\FormProjeler - Kopya\SepettekiUrunler\SepettekiUrunler\obj\Debug\net6.0-windows\SepettekiUrunler.Form1.resources
+C:\Users\Administrator\Desktop\Form Projesi İçin Gerekli\FormProjeler - Kopya\SepettekiUrunler\SepettekiUrunler\obj\Debug\net6.0-windows\SepettekiUrunler.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Form Projesi İçin Gerekli\FormProjeler - Kopya\SepettekiUrunler\SepettekiUrunler\obj\Debug\net6.0-windows\SepettekiUrunler.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Form Projesi İçin Gerekli\FormProjeler - Kopya\SepettekiUrunler\SepettekiUrunler\obj\Debug\net6.0-windows\SepettekiUrunler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Form Projesi İçin Gerekli\FormProjeler - Kopya\SepettekiUrunler\SepettekiUrunler\obj\Debug\net6.0-windows\SepettekiUrunler.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Form Projesi İçin Gerekli\FormProjeler - Kopya\SepettekiUrunler\SepettekiUrunler\obj\Debug\net6.0-windows\SepettekiUrunler.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Form Projesi İçin Gerekli\FormProjeler - Kopya\SepettekiUrunler\SepettekiUrunler\obj\Debug\net6.0-windows\SepettekiUrunler.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Form Projesi İçin Gerekli\FormProjeler - Kopya\SepettekiUrunler\SepettekiUrunler\obj\Debug\net6.0-windows\SepettekiUrunler.dll
+C:\Users\Administrator\Desktop\Form Projesi İçin Gerekli\FormProjeler - Kopya\SepettekiUrunler\SepettekiUrunler\obj\Debug\net6.0-windows\refint\SepettekiUrunler.dll
+C:\Users\Administrator\Desktop\Form Projesi İçin Gerekli\FormProjeler - Kopya\SepettekiUrunler\SepettekiUrunler\obj\Debug\net6.0-windows\SepettekiUrunler.pdb
+C:\Users\Administrator\Desktop\Form Projesi İçin Gerekli\FormProjeler - Kopya\SepettekiUrunler\SepettekiUrunler\obj\Debug\net6.0-windows\SepettekiUrunler.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Form Projesi İçin Gerekli\FormProjeler - Kopya\SepettekiUrunler\SepettekiUrunler\obj\Debug\net6.0-windows\ref\SepettekiUrunler.dll
